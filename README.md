@@ -1,1 +1,1 @@
-# Pills_Counter_ComputerVisualization
+# Pills_Counter_ComputerVision
